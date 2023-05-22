@@ -25,7 +25,7 @@ window.onscroll = function () {
 };
 
 var navbar = document.querySelector("nav");
-var services = document.querySelector("#tinh-nang");
+var services = document.querySelector("#features");
 var sticky = services.offsetTop;
 
 function myFunction() {
