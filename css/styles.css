@@ -585,7 +585,7 @@ nav {
 /* End: Header Section Styling */
 
 /* Features Section Styling */
-#features {
+#tinh-nang {
   height: 100%;
   padding-bottom: 200px;
   border-bottom: 1px solid #e0e0e0;
@@ -601,13 +601,13 @@ nav {
 /* End: Features Section Styling */
 
 /* Testimonial Section Styling */
-#testimonial {
+#phan-hoi {
   margin-top: 50px;
 }
-#testimonial .stylish_heading {
+#phan-hoi .stylish_heading {
   text-align: center;
 }
-#testimonial .row {
+#phan-hoi .row {
   margin-top: 6.25rem;
 }
 
@@ -681,7 +681,7 @@ nav {
 /* End: Testimonial Section Styling */
 
 /* How To Section Styling */
-#howto {
+#huong-dan {
   background: #d90647; /* Old browsers */
   background: -moz-linear-gradient(
     top,
@@ -707,13 +707,13 @@ nav {
   margin-top: 6.25rem;
 }
 
-#howto p {
+#huong-dan p {
   color: #ffffff;
   font-size: 16px;
   line-height: 1.75;
 }
 
-#howto h4 {
+#huong-dan h4 {
   font-size: 1.5rem;
   font-weight: 900;
 }
@@ -807,12 +807,12 @@ nav {
 /* End: Subscribe Section Styling */
 
 /* Download The App Section Styling */
-#download {
+#tai-app {
   text-align: center;
   padding: 100px;
 }
 
-#download * {
+#tai-app * {
   margin: 25px auto;
 }
 
@@ -950,7 +950,7 @@ nav {
     display: none;
   }
 
-  #features {
+  #tinh-nang {
     padding-bottom: 50px;
   }
 
@@ -973,17 +973,17 @@ nav {
     flex-direction: column-reverse;
   }
 
-  #testimonial .row {
+  #phan-hoi .row {
     margin-top: 3.25rem;
   }
 
-  #howto {
+  #huong-dan {
     height: 100%;
     margin-top: 0;
     padding: 50px 0;
   }
 
-  #howto p {
+  #huong-dan p {
     width: 80%;
     margin-left: 10%;
   }
@@ -1054,10 +1054,10 @@ nav {
     margin: 5px auto;
   }
 
-  #testimonial .col {
+  #phan-hoi .col {
     margin-bottom: 50px;
   }
-  #download {
+  #tai-app {
     padding: 50px 0;
   }
   #subscribe {
@@ -1131,7 +1131,7 @@ nav {
     display: none;
   }
 
-  #features {
+  #tinh-nang {
     padding-bottom: 50px;
   }
 
@@ -1154,17 +1154,17 @@ nav {
     flex-direction: column-reverse;
   }
 
-  #testimonial .row {
+  #phan-hoi .row {
     margin-top: 3.25rem;
   }
 
-  #howto {
+  #huong-dan {
     height: 100%;
     margin-top: 0;
     padding: 50px 0;
   }
 
-  #howto p {
+  #huong-dan p {
     width: 80%;
     margin-left: 10%;
   }
@@ -1235,10 +1235,10 @@ nav {
     margin: 5px auto;
   }
 
-  #testimonial .col {
+  #phan-hoi .col {
     margin-bottom: 50px;
   }
-  #download {
+  #tai-app {
     padding: 50px 0;
   }
   #subscribe {
@@ -1264,7 +1264,7 @@ nav {
   h2 {
     font-size: 40px;
   }
-  #howto h4 {
+  #huong-dan h4 {
     font-size: 1.3rem;
     font-weight: 900;
   }
@@ -1311,7 +1311,7 @@ nav {
     width: 100%;
   }
 
-  #howto {
+  #huong-dan {
     height: 100%;
     margin-bottom: 5rem;
     margin-top: 0;
@@ -1321,7 +1321,7 @@ nav {
     width: 100%;
   }
 
-  #howto #howto p {
+  #huong-dan #huong-dan p {
     width: 80%;
     margin-left: 10%;
   }
@@ -1388,7 +1388,7 @@ nav {
   h2 {
     font-size: 40px;
   }
-  #howto h4 {
+  #huong-dan h4 {
     font-size: 1.3rem;
     font-weight: 900;
   }
@@ -1435,7 +1435,7 @@ nav {
     width: 100%;
   }
 
-  #howto {
+  #huong-dan {
     height: 100%;
     margin-bottom: 5rem;
     margin-top: 10rem;
@@ -1444,7 +1444,7 @@ nav {
     width: 100%;
   }
 
-  #howto #howto p {
+  #huong-dan #huong-dan p {
     width: 80%;
     margin-left: 10%;
   }
@@ -1513,7 +1513,7 @@ nav {
     padding: 100px;
   }
 
-  #howto {
+  #huong-dan {
     margin-bottom: 5rem;
     margin-top: 10rem;
     padding: 50px 0;
